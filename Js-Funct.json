@@ -1,0 +1,7 @@
+// Function Programing
+Keep function and Data separate
+Avoid state change and mutable data.
+threat function as 1st class citizens
+    
+    Pass function as argument and return function.
+    
